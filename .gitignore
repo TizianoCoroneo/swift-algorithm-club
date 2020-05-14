@@ -32,3 +32,6 @@ Pods/
 .Spotlight-V100
 *.swp
 *.lock
+
+# Swift Package Manager
+.build/
